@@ -19,3 +19,7 @@ Explore the rich history of Apple's personal computing innovations through our c
 Navigate through the site using the sidebar menu, each section enriched with historical details and significant events that shaped Apple's direction and success in the technology industry.
 
 For more detailed insights and a historical timeline, visit the respective sections listed in the menu. Each part of Apple's history is elaborated with interactive content and media to enhance your understanding of Apple's impact on technology and culture.
+
+
+https://github.com/sujaanr/apple-personal-computer/assets/145608695/fe09906c-9d4b-43a9-bbf9-6bfc7d1cd567
+
