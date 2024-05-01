@@ -1,6 +1,6 @@
 # History of Apple Computers
 
-Explore the rich history of Apple's personal computing innovations through our comprehensive project. This site documents the evolution from the early days in a garage to the latest advancements in technology.
+Explore the rich history of Apple's personal computing innovations through this front-end project. This site documents the evolution from the early days in a garage to the latest advancements in technology.
 
 ## Overview
 
